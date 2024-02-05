@@ -12,6 +12,6 @@ Content in the directory:
 10. "train_label.xml". It lists the labels, e.g., vehicle ID, camera ID, color, type, of the training images.
 11. "test_label.xml". It lists the labels of all test images.
 Figure 1:
-
+![Alt text](image link)
 
 If you have any problem, please contact meiqiu@iu.edu
