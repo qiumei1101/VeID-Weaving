@@ -1,5 +1,4 @@
 %**************************************************************************************************************************************************%
-
 % The VeID-INDOT-Weaving dataset is collected from 6 weaving areas in Indiana highways, USA. These data was generated with 14 cameras and 2 drones.
 % One weaving area is shown in Figure 1. Some vehicle examples in our data are shown in Figure 2.
 % Specifically, for each weaving area, the unique vehicle number and image number are shown in Table 1.                     
