@@ -9,7 +9,7 @@ Content in the directory:
 4. "name_query.txt". It lists all query file names.
 5. "name_test.txt". It lists all test file names.
 6. "name_train.txt". It lists all train file names.
-10. "train_label.xml". It lists the labels, e.g., vehicle ID, camera ID, color, type, of the training images.
+10. "train_label.xml". It lists the labels, e.g., vehicle ID, camera ID of the training images.
 11. "test_label.xml". It lists the labels of all test images.
 
 Figure 1:
