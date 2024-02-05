@@ -15,8 +15,8 @@ Content in the directory:
 Figure 1:
 ![Figure 1](figures/Cam2camweavingroad.jpg)
 Figure 2:
-![Figure 2](figures/vehiclesamples.pdf)
+![Figure 2](figures/vehiclesamples.jpg)
 Table 1:
-![Table 1](ffigures/weaving_separate_data.jpg)
+![Table 1](figures/weaving_separate_data.jpg)
 
 If you have any problem, please contact meiqiu@iu.edu
