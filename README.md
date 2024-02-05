@@ -11,8 +11,9 @@ Content in the directory:
 6. "name_train.txt". It lists all train file names.
 10. "train_label.xml". It lists the labels, e.g., vehicle ID, camera ID, color, type, of the training images.
 11. "test_label.xml". It lists the labels of all test images.
-Figure 1:
-Table 1:
-Figure 2:
- [VeRI-WILD](https://github.com/PKU-IMRE/VERI-Wild)
+
+ [Figure 1](figures/Cam2cam weaving road.jpg)
+ [Figure 2](figures/vehiclesamples.pdf)
+[Table 1](ffigures/weaving_separate_data.jpg)
+ 
 If you have any problem, please contact meiqiu@iu.edu
