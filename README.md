@@ -14,8 +14,10 @@ Content in the directory:
 
 Figure 1:
 ![Figure 1](figures/Cam2camweavingroad.jpg)
+
 Figure 2:
 ![Figure 2](figures/vehiclesamples.jpg)
+
 Table 1:
 ![Table 1](figures/weaving_separate_data.jpg)
 
